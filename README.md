@@ -1,4 +1,6 @@
-# vitappflutterweb
+# VIT Flutter Web App
+
+https://vitapp-1-0.firebaseapp.com/#/
 
 A new Flutter project.
 
